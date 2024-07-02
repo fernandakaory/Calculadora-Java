@@ -53,7 +53,7 @@ public class Funcoes_DAO {
             v1_txt.setBackground(new Color(255,240,245));
             v2_txt.setBackground(new Color(255,240,245));
         } catch(Exception e){
-            JOptionPane.showInternalMessageDialog(null, "Insira um valor válido");
+            JOptionPane.showInternalMessageDialog(null, "Insira um valor válido!!");
         }
     }
     
